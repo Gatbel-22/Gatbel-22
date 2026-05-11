@@ -20,29 +20,6 @@ I value continuous learning, collaboration, and contributing to meaningful techn
 
 ---
 
-## 🎓 Education & Professional Development
-
-- **ALX Professional Development Skills for the Digital Age**
-  - Strengthened foundational professional skills including communication, problem-solving, teamwork, and career readiness in the digital economy.
-  - Developed a strong mindset for adaptability and continuous learning in fast-evolving tech environments.
-
----
-
-## 🌍 Leadership & Initiative
-
-### Founder — Salam Rise Academy
-I am the founder of **Salam Rise Academy**, an online learning and development initiative focused on empowering African learners through accessible digital education.
-
-The initiative aims to:
-- Bridge the digital skills gap in Africa
-- Provide structured learning pathways in technology and personal development
-- Support young learners, especially girls and underserved communities
-- Promote self-paced, technology-driven education
-
-This initiative reflects my commitment to **education, impact, and long-term digital transformation in Africa**.
-
----
-
 ## 🛠️ Technical Skills
 
 ### 💻 Programming & Backend
@@ -93,13 +70,20 @@ This initiative reflects my commitment to **education, impact, and long-term dig
 
 ---
 
-## 📂 Projects (Sample Areas)
+## 📂 Projects & Initiatives
 
-- Full-stack MERN applications (authentication, dashboards, APIs)
-- Django-based backend systems with database integration
-- API services with Node.js and Express
-- Experimental AI/networking-related learning projects
-- **Salam Rise Academy – Online Learning Platform Initiative**
+### 🌍 Salam Rise Academy (Founder)
+I am the founder of **Salam Rise Academy**, an online learning and development initiative focused on empowering African youth and learners through accessible digital education and skill development opportunities.
+
+---
+
+## 🎓 Education
+
+- 🎓 **Bachelor of Science in Software Engineering**  
+  Jimma University
+
+- 📜 **ALX Professional Development Program**  
+  Skills for the Digital Age (Software Engineering & Career Readiness)
 
 ---
 
@@ -111,7 +95,6 @@ I am actively looking to contribute to:
 - Cloud/DevOps learning opportunities
 - AI or data-driven system projects
 - Open-source collaborations
-- Education technology initiatives
 
 ---
 
@@ -119,7 +102,7 @@ I am actively looking to contribute to:
 
 - Strong commitment to continuous learning
 - Focused on writing clean and maintainable code
-- Interested in real-world system design
+- Interested in real-world system design and architecture
 - Passionate about building impactful software solutions
 - Comfortable working in collaborative or independent environments
 
@@ -127,8 +110,6 @@ I am actively looking to contribute to:
 
 ## 📫 Let’s Connect
 
-I am always open to collaboration, mentorship, and project opportunities where I can contribute, learn, and grow as an engineer.
+I am always open to collaboration, mentorship, and project opportunities where I can contribute and grow as an engineer.
 
-> “Technology becomes powerful when it is used to create opportunities and solve real problems for people.”
-
----
+> “Building systems is not just about code — it’s about solving problems efficiently and sustainably.”
