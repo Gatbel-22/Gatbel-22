@@ -20,6 +20,29 @@ I value continuous learning, collaboration, and contributing to meaningful techn
 
 ---
 
+## 🎓 Education & Professional Development
+
+- **ALX Professional Development Skills for the Digital Age**
+  - Strengthened foundational professional skills including communication, problem-solving, teamwork, and career readiness in the digital economy.
+  - Developed a strong mindset for adaptability and continuous learning in fast-evolving tech environments.
+
+---
+
+## 🌍 Leadership & Initiative
+
+### Founder — Salam Rise Academy
+I am the founder of **Salam Rise Academy**, an online learning and development initiative focused on empowering African learners through accessible digital education.
+
+The initiative aims to:
+- Bridge the digital skills gap in Africa
+- Provide structured learning pathways in technology and personal development
+- Support young learners, especially girls and underserved communities
+- Promote self-paced, technology-driven education
+
+This initiative reflects my commitment to **education, impact, and long-term digital transformation in Africa**.
+
+---
+
 ## 🛠️ Technical Skills
 
 ### 💻 Programming & Backend
@@ -76,7 +99,7 @@ I value continuous learning, collaboration, and contributing to meaningful techn
 - Django-based backend systems with database integration
 - API services with Node.js and Express
 - Experimental AI/networking-related learning projects
-- Portfolio and productivity applications
+- **Salam Rise Academy – Online Learning Platform Initiative**
 
 ---
 
@@ -88,6 +111,7 @@ I am actively looking to contribute to:
 - Cloud/DevOps learning opportunities
 - AI or data-driven system projects
 - Open-source collaborations
+- Education technology initiatives
 
 ---
 
@@ -103,8 +127,8 @@ I am actively looking to contribute to:
 
 ## 📫 Let’s Connect
 
-I am always open to collaboration, mentorship, and project opportunities where I can contribute and grow as an engineer.
+I am always open to collaboration, mentorship, and project opportunities where I can contribute, learn, and grow as an engineer.
 
-> “Building systems is not just about code — it’s about solving problems efficiently and sustainably.”
+> “Technology becomes powerful when it is used to create opportunities and solve real problems for people.”
 
----### Hi there 👋
+---
