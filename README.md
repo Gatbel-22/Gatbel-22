@@ -1,5 +1,5 @@
 # 👨‍💻 Software Engineer | MERN Stack Developer | Django Backend Engineer  
-### Networking Enthusiast | AI Explorer | Cloud Engineering in Progress
+### Data analytics and Networking Enthusiast | AI Explorer | Cloud Engineering in Progress
 
 ---
 
