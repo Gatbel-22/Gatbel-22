@@ -36,7 +36,8 @@ I value continuous learning, collaboration, and contributing to meaningful techn
 
 ### 🗄️ Databases
 - MongoDB (NoSQL)
-- SQL fundamentals
+- PostgreSQL
+- MySQL
 - Data modeling & optimization
 
 ### ☁️ Cloud & DevOps (Growing)
